@@ -1,0 +1,4 @@
+﻿Calculate the temperature of your pavement!
+Use this calculator to estimate the temperature of the pavement.
+ 
+Back to main page
